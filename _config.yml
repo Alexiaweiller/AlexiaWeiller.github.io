@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
-email: 
-description: "Musings of a Computer Scientist."
+title: Alexia Weiller's page
+email: alexia.weiller@gmail.com
+description: "Keep moving forward"
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://AlexiaWeiller.github.io"
+linkedin_username: Alexia (Matouskoff) Weiller  
+github_username:  Alexiaweiller
 
 # Build settings
 markdown: kramdown
